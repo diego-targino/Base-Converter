@@ -1,0 +1,15 @@
+C:\temp\ws-visualStudio\Testes\Converter\bin\Debug\net5.0\Converter.exe
+C:\temp\ws-visualStudio\Testes\Converter\bin\Debug\net5.0\Converter.deps.json
+C:\temp\ws-visualStudio\Testes\Converter\bin\Debug\net5.0\Converter.runtimeconfig.json
+C:\temp\ws-visualStudio\Testes\Converter\bin\Debug\net5.0\Converter.runtimeconfig.dev.json
+C:\temp\ws-visualStudio\Testes\Converter\bin\Debug\net5.0\Converter.dll
+C:\temp\ws-visualStudio\Testes\Converter\bin\Debug\net5.0\ref\Converter.dll
+C:\temp\ws-visualStudio\Testes\Converter\bin\Debug\net5.0\Converter.pdb
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\Converter.AssemblyInfoInputs.cache
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\Converter.AssemblyInfo.cs
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\Converter.csproj.CoreCompileInputs.cache
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\Converter.dll
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\ref\Converter.dll
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\Converter.pdb
+C:\temp\ws-visualStudio\Testes\Converter\obj\Debug\net5.0\Converter.genruntimeconfig.cache
